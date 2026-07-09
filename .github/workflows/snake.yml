@@ -9,6 +9,10 @@ on:
     branches:
     - main
 
+# 必须增加写入权限，否则会报 git push 128 错误
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,3 +36,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
