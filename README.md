@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Waving Header with Sakura & Green Leaf Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ffa6b7,ffc4d0,b5ead7&height=250&section=header&text=xuanc&fontSize=80&fontAlignY=35&font=Dancing+Script" alt="Dynamic Sakura Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ffa6b7,ffc4d0,b5ead7&height=250&section=header&text=xuanc&fontSize=80&fontAlignY=35&fontFamily=Dancing%20Script" alt="Dynamic Sakura Header" width="100%"/>
 
   <!-- Typing SVG with Sakura Pink text -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=E2849F&center=true&vCenter=true&width=600&lines=%E8%87%B4%E5%8A%9B%E4%BA%8EAGI%E7%9A%84%E5%BB%BA%E8%AE%BE%EF%BC%8C%E7%9B%B8%E4%BF%A1AGI%E6%97%B6%E4%BB%A3%E7%BB%88%E4%BC%9A%E5%88%B0%E6%9D%A5%E3%80%82;AI+Agent+%E4%B8%8E%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+xuanc" alt="Typing SVG" />
@@ -85,3 +85,4 @@
 <div align="center">
   <i><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f338.png" alt="Cherry Blossom" width="15" height="15" /> 保持探索，持续创造。 <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f343.png" alt="Leaf" width="15" height="15" /></i>
 </div>
+
