@@ -9,7 +9,6 @@
 <br/>
 
 ### 🌸 关于我
-> **“当世界年轻时**
 > **When the world was young”**
 
 你好！我是 **xuanc**，一名对ai充满的大三学生。我的始于 Astrbot ——它让我看到了现在AI 的智能程度以及agent的强大之处。这变成了我致力于掌握 AI Agent 开发、并努力去参与构建 AGI 未来的不竭动力。
