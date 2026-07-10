@@ -14,7 +14,7 @@
 ### 🌸 关于我
 > **“当世界年轻时 / When the world was young”**
 
-你好！我是 **xuanc**，一名对人工智能充满热情的大三学生。我的旅程始于 Astrbot 带来的灵感火花——它让我看到了 AI 伴侣的无限潜力。这颗种子迅速生根发芽，变成了我致力于掌握 AI Agent 开发、并努力去参与构建 AGI 未来的不竭动力。
+你好！我是 **xuanc**，一名对人工智能充满热情的大三学生。我的旅程始于 Astrbot ——它让我看到了AI女友的潜力，也让我看到了agent的创造力。这变成了我致力于掌握 AI Agent 开发、并努力去参与构建 AGI 未来的不竭动力。
 
 - **大三**，正在探索广袤的 AI 应用宇宙。
 - **方向：** AI Agents、AGI 研究，以及将天马行空的创新想法变为现实。
@@ -39,7 +39,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
   
-**🎵 音乐循环 (QQ音乐)**
+**🎵 音乐 (QQ音乐)**
 <br/><br/>
 <a href="https://y.qq.com/">
   <img src="https://img.shields.io/badge/🎵_QQ_Music-Listen_to_my_Vibe-12B7F5?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ Music Playlist" />
